@@ -1,0 +1,5 @@
+en:
+  NHIField:
+    LEGACYVALIDATEPATTERN: 'The value for {name} must be a sequence of 3 letters followed by 4 digits.'
+    VALIDATEPATTERN: 'The value for {name} must be a sequence of 3 letters followed by 2 digits then 2 more letters.'
+    VALIDATECHECKSUM: 'The value for {name} is not a valid NHI number.'
